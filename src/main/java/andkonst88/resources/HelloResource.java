@@ -10,7 +10,7 @@ public class HelloResource {
 	@GET
 	@Produces({"text/plain"})
 	public String greet() {
-		return "Hello, from Vinod!";
+		return "Hello, from andkonst88!";
 	}
 	
 	@GET
@@ -20,7 +20,7 @@ public class HelloResource {
 				"\n" + 
 				"<greeting>\n" + 
 				"	<message>Hello, World</message>\n" + 
-				"	<from>Vinod</from>\n" + 
+				"	<from>andkonst88</from>\n" + 
 				"</greeting>";
 	}
 	
