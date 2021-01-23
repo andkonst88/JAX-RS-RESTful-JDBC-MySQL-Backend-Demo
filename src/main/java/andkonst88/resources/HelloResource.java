@@ -29,7 +29,7 @@ public class HelloResource {
 	public String greetAsJson() {
 		return "{\n" + 
 				"	\"message\": \"Hello, World\",\n" + 
-				"	\"from\": \"Vinod\"\n" + 
+				"	\"from\": \"andkonst88\"\n" + 
 				"}";
 	}
 }
